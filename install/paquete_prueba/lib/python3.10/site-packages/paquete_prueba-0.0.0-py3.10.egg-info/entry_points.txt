@@ -1,0 +1,4 @@
+[console_scripts]
+publisher = paquete_prueba.publisher:main
+receiver = paquete_prueba.receiver:mainprocessor = paquete_prueba.processor:main
+

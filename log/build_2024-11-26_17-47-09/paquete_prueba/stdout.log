@@ -1,0 +1,23 @@
+running egg_info
+writing ../../build/paquete_prueba/paquete_prueba.egg-info/PKG-INFO
+writing dependency_links to ../../build/paquete_prueba/paquete_prueba.egg-info/dependency_links.txt
+writing entry points to ../../build/paquete_prueba/paquete_prueba.egg-info/entry_points.txt
+writing requirements to ../../build/paquete_prueba/paquete_prueba.egg-info/requires.txt
+writing top-level names to ../../build/paquete_prueba/paquete_prueba.egg-info/top_level.txt
+reading manifest file '../../build/paquete_prueba/paquete_prueba.egg-info/SOURCES.txt'
+writing manifest file '../../build/paquete_prueba/paquete_prueba.egg-info/SOURCES.txt'
+running build
+running build_py
+copying paquete_prueba/processor.py -> /home/tomas/workspace_tarea/build/paquete_prueba/build/lib/paquete_prueba
+running install
+running install_lib
+copying /home/tomas/workspace_tarea/build/paquete_prueba/build/lib/paquete_prueba/processor.py -> /home/tomas/workspace_tarea/install/paquete_prueba/lib/python3.10/site-packages/paquete_prueba
+byte-compiling /home/tomas/workspace_tarea/install/paquete_prueba/lib/python3.10/site-packages/paquete_prueba/processor.py to processor.cpython-310.pyc
+running install_data
+running install_egg_info
+removing '/home/tomas/workspace_tarea/install/paquete_prueba/lib/python3.10/site-packages/paquete_prueba-0.0.0-py3.10.egg-info' (and everything under it)
+Copying ../../build/paquete_prueba/paquete_prueba.egg-info to /home/tomas/workspace_tarea/install/paquete_prueba/lib/python3.10/site-packages/paquete_prueba-0.0.0-py3.10.egg-info
+running install_scripts
+Installing publisher script to /home/tomas/workspace_tarea/install/paquete_prueba/lib/paquete_prueba
+Installing receiver = paquete_prueba.receiver:mainprocessor script to /home/tomas/workspace_tarea/install/paquete_prueba/lib/paquete_prueba
+writing list of installed files to '/home/tomas/workspace_tarea/build/paquete_prueba/install.log'

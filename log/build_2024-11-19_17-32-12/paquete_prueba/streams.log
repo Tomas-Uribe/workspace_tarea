@@ -1,0 +1,33 @@
+[0.329s] Invoking command in '/home/tomas/workspace_tarea/src/paquete_prueba': PYTHONPATH=/home/tomas/workspace_tarea/build/paquete_prueba/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/tomas/workspace_tarea/install/paquete_prueba/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/paquete_prueba build --build-base /home/tomas/workspace_tarea/build/paquete_prueba/build install --record /home/tomas/workspace_tarea/build/paquete_prueba/install.log --single-version-externally-managed install_data
+[0.442s] running egg_info
+[0.442s] creating ../../build/paquete_prueba/paquete_prueba.egg-info
+[0.442s] writing ../../build/paquete_prueba/paquete_prueba.egg-info/PKG-INFO
+[0.442s] writing dependency_links to ../../build/paquete_prueba/paquete_prueba.egg-info/dependency_links.txt
+[0.442s] writing entry points to ../../build/paquete_prueba/paquete_prueba.egg-info/entry_points.txt
+[0.442s] writing requirements to ../../build/paquete_prueba/paquete_prueba.egg-info/requires.txt
+[0.442s] writing top-level names to ../../build/paquete_prueba/paquete_prueba.egg-info/top_level.txt
+[0.442s] writing manifest file '../../build/paquete_prueba/paquete_prueba.egg-info/SOURCES.txt'
+[0.443s] reading manifest file '../../build/paquete_prueba/paquete_prueba.egg-info/SOURCES.txt'
+[0.443s] writing manifest file '../../build/paquete_prueba/paquete_prueba.egg-info/SOURCES.txt'
+[0.443s] running build
+[0.443s] running build_py
+[0.443s] creating /home/tomas/workspace_tarea/build/paquete_prueba/build
+[0.443s] creating /home/tomas/workspace_tarea/build/paquete_prueba/build/lib
+[0.443s] creating /home/tomas/workspace_tarea/build/paquete_prueba/build/lib/paquete_prueba
+[0.444s] copying paquete_prueba/__init__.py -> /home/tomas/workspace_tarea/build/paquete_prueba/build/lib/paquete_prueba
+[0.444s] running install
+[0.444s] running install_lib
+[0.444s] creating /home/tomas/workspace_tarea/install/paquete_prueba/lib/python3.10/site-packages/paquete_prueba
+[0.444s] copying /home/tomas/workspace_tarea/build/paquete_prueba/build/lib/paquete_prueba/__init__.py -> /home/tomas/workspace_tarea/install/paquete_prueba/lib/python3.10/site-packages/paquete_prueba
+[0.444s] byte-compiling /home/tomas/workspace_tarea/install/paquete_prueba/lib/python3.10/site-packages/paquete_prueba/__init__.py to __init__.cpython-310.pyc
+[0.444s] running install_data
+[0.444s] creating /home/tomas/workspace_tarea/install/paquete_prueba/share/ament_index
+[0.444s] creating /home/tomas/workspace_tarea/install/paquete_prueba/share/ament_index/resource_index
+[0.445s] creating /home/tomas/workspace_tarea/install/paquete_prueba/share/ament_index/resource_index/packages
+[0.445s] copying resource/paquete_prueba -> /home/tomas/workspace_tarea/install/paquete_prueba/share/ament_index/resource_index/packages
+[0.445s] copying package.xml -> /home/tomas/workspace_tarea/install/paquete_prueba/share/paquete_prueba
+[0.445s] running install_egg_info
+[0.445s] Copying ../../build/paquete_prueba/paquete_prueba.egg-info to /home/tomas/workspace_tarea/install/paquete_prueba/lib/python3.10/site-packages/paquete_prueba-0.0.0-py3.10.egg-info
+[0.446s] running install_scripts
+[0.456s] writing list of installed files to '/home/tomas/workspace_tarea/build/paquete_prueba/install.log'
+[0.469s] Invoked command in '/home/tomas/workspace_tarea/src/paquete_prueba' returned '0': PYTHONPATH=/home/tomas/workspace_tarea/build/paquete_prueba/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/tomas/workspace_tarea/install/paquete_prueba/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/paquete_prueba build --build-base /home/tomas/workspace_tarea/build/paquete_prueba/build install --record /home/tomas/workspace_tarea/build/paquete_prueba/install.log --single-version-externally-managed install_data

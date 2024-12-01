@@ -1,0 +1,19 @@
+/home/tomas/workspace_tarea/install/paquete_prueba/lib/python3.10/site-packages/paquete_prueba/processor.py
+/home/tomas/workspace_tarea/install/paquete_prueba/lib/python3.10/site-packages/paquete_prueba/__init__.py
+/home/tomas/workspace_tarea/install/paquete_prueba/lib/python3.10/site-packages/paquete_prueba/receiver.py
+/home/tomas/workspace_tarea/install/paquete_prueba/lib/python3.10/site-packages/paquete_prueba/publisher.py
+/home/tomas/workspace_tarea/install/paquete_prueba/lib/python3.10/site-packages/paquete_prueba/__pycache__/processor.cpython-310.pyc
+/home/tomas/workspace_tarea/install/paquete_prueba/lib/python3.10/site-packages/paquete_prueba/__pycache__/__init__.cpython-310.pyc
+/home/tomas/workspace_tarea/install/paquete_prueba/lib/python3.10/site-packages/paquete_prueba/__pycache__/receiver.cpython-310.pyc
+/home/tomas/workspace_tarea/install/paquete_prueba/lib/python3.10/site-packages/paquete_prueba/__pycache__/publisher.cpython-310.pyc
+/home/tomas/workspace_tarea/install/paquete_prueba/share/ament_index/resource_index/packages/paquete_prueba
+/home/tomas/workspace_tarea/install/paquete_prueba/share/paquete_prueba/package.xml
+/home/tomas/workspace_tarea/install/paquete_prueba/lib/python3.10/site-packages/paquete_prueba-0.0.0-py3.10.egg-info/dependency_links.txt
+/home/tomas/workspace_tarea/install/paquete_prueba/lib/python3.10/site-packages/paquete_prueba-0.0.0-py3.10.egg-info/entry_points.txt
+/home/tomas/workspace_tarea/install/paquete_prueba/lib/python3.10/site-packages/paquete_prueba-0.0.0-py3.10.egg-info/requires.txt
+/home/tomas/workspace_tarea/install/paquete_prueba/lib/python3.10/site-packages/paquete_prueba-0.0.0-py3.10.egg-info/PKG-INFO
+/home/tomas/workspace_tarea/install/paquete_prueba/lib/python3.10/site-packages/paquete_prueba-0.0.0-py3.10.egg-info/top_level.txt
+/home/tomas/workspace_tarea/install/paquete_prueba/lib/python3.10/site-packages/paquete_prueba-0.0.0-py3.10.egg-info/SOURCES.txt
+/home/tomas/workspace_tarea/install/paquete_prueba/lib/python3.10/site-packages/paquete_prueba-0.0.0-py3.10.egg-info/zip-safe
+/home/tomas/workspace_tarea/install/paquete_prueba/lib/paquete_prueba/publisher
+/home/tomas/workspace_tarea/install/paquete_prueba/lib/paquete_prueba/receiver = paquete_prueba.receiver:mainprocessor
